@@ -24,11 +24,11 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     BlockedNumberProvider \
     BookmarkProvider \
-    Browser2 \
     BuiltInPrintService \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
+    chromium \
     Contacts \
     DeskClock \
     DocumentsUI \
