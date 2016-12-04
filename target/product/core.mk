@@ -26,7 +26,6 @@ PRODUCT_PACKAGES += \
     BookmarkProvider \
     Browser2 \
     BuiltInPrintService \
-    Calendar \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
@@ -35,6 +34,7 @@ PRODUCT_PACKAGES += \
     DocumentsUI \
     DownloadProviderUi \
     Email \
+    Etar-Calendar \
     ExactCalculator \
     ExternalStorageProvider \
     F-Droid \
